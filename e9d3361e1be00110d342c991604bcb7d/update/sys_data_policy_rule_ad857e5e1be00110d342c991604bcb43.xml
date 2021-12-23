@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>requester</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-23 05:13:53</sys_created_on>
+        <sys_data_policy display_value="Sets the Requester field to mandatory">a5857e5e1be00110d342c991604bcb40</sys_data_policy>
+        <sys_id>ad857e5e1be00110d342c991604bcb43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>requester</sys_name>
+        <sys_package display_value="Domain Test" source="x_682118_domain_te">e9d3361e1be00110d342c991604bcb7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Domain Test">e9d3361e1be00110d342c991604bcb7d</sys_scope>
+        <sys_update_name>sys_data_policy_rule_ad857e5e1be00110d342c991604bcb43</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-23 05:13:53</sys_updated_on>
+        <table>x_682118_domain_te_domain</table>
+    </sys_data_policy_rule>
+</record_update>
